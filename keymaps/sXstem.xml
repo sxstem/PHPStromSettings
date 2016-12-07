@@ -1,0 +1,6 @@
+<keymap version="1" name="sXstem" parent="Eclipse">
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+</keymap>
