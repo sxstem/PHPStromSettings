@@ -1,0 +1,12 @@
+<templateSet group="PHP">
+  <template name="&lt;?" value="&lt;?php $END$ ?&gt;" shortcut="SPACE" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+      <option name="PHP Expression" value="false" />
+      <option name="PHP Statement" value="false" />
+      <option name="PHP Class Member" value="false" />
+    </context>
+  </template>
+</templateSet>
