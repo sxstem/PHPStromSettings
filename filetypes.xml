@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="wxss" type="CSS" />
       <mapping ext="wxml" type="HTML" />
-      <mapping ext="wxss" type="SCSS" />
     </extensionMap>
   </component>
 </application>
