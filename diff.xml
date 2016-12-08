@@ -9,6 +9,13 @@
       </entry>
     </option>
   </component>
+  <component name="SvnDiffSettings">
+    <option name="PLACES_MAP">
+      <entry key="Default">
+        <PlaceSettings />
+      </entry>
+    </option>
+  </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
       <entry key="ChangesView">
