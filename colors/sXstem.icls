@@ -3,10 +3,10 @@
     <property name="created">2016-12-07T11:25:27</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2016-12-07T15:52:59</property>
+    <property name="modified">2016-12-09T09:50:41</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="EDITOR_FONT_NAME" value="Courier New" />
 </scheme>
