@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping ext="wxss" type="CSS" />
       <mapping ext="wxml" type="HTML" />
+      <mapping pattern="llh" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
