@@ -12,7 +12,9 @@
   <component name="SvnDiffSettings">
     <option name="PLACES_MAP">
       <entry key="Default">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="SPLITTER_PROPORTION" value="0.89467007" />
+        </PlaceSettings>
       </entry>
     </option>
   </component>
